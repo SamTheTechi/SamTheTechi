@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SamTheProBot aka Sameer_gupta ✨
-- 🌱 Idk what I'm intreated in Rn
+- 🌱 Just an usual web3 developer
 - 💞️ Looking Forward for Collabrtion
 - 📫 Just drop message on Instagram
 - 💁🏻 He/Him ofc
