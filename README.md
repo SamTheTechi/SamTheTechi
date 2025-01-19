@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Rustacean 🦀 Sameer_gupta ✨
-- 🌱 Just an usual developer 
-- 💞️ Looking Forward for Collabrtion
-- 📫 Just drop message on Instagram
+- 👋 Hi, I’m rustacean 🦀 Sameer_gupta ✨
+- 🌱 Just an usual cs major under_grad 
+- 💞️ Looking forward for collabrtion
+- 📫 Just drop message on instagram
 - 💁🏻 He/Him ofc
-- ⚡ Fun fact: I'm an Otaku 🗾🎮
+- ⚡ Fun fact: I'm an otaku 🗾🎮
 
 <!---
 SamTheProBot/ArchMageSam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
