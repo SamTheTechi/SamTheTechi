@@ -1,8 +1,11 @@
 <h1 align="left">Hey There, I'm Sameer  👋</h1>
 
-<br clear="both">
+<div align="center">
 
-<p align="left">Hey! I’m Sameer, an undergrad computer science student and a big nerd at heart who loves diving deep into backend development and designing scalable system architectures.<br><br>You’ll usually find me hacking around with Docker, Neovim, Linux and TypeScript, <br>want to level up my Nest.js, GraphQL, Kafka, and Kubernetes skills.<br><br>I’m always up for collaboration, just drop me a message.</p>
+  [![Visit Count](https://count.getloli.com/@SamTheTechi?name=SamTheTechi&theme=rule34&padding=7&offset=0&align=top&scale=1.5&pixelated=1&darkmode=auto)](#)
+</div>
+
+<p align="left">Hey! I’m Sameer, an undergrad computer science student and a big nerd at heart who loves diving deep into backend development and designing scalable system architectures.<br><br>You’ll usually find me hacking around with Docker, Neovim, Linux and TypeScript, <br> want to level up my Nest.js, GraphQL, Kafka, and Kubernetes skills.<br><br>I’m always up for collaboration, just drop me a message!.</p>
 
 ###
 
@@ -63,15 +66,8 @@
 <h2>Scoreboard 🧑‍💻</h2>
 
 <div align="center">
-  
-  <br/>![Leetcode Stats](https://leetcard.jacoblin.cool/samthetechi?theme=transparent)
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samthetechi&locale=en&hide_title=false&layout=compact&card_width=380&langs_count=6&theme=dark&hide_border=true&order=3" height="300" alt="languages graph"  />
-</div>
 
-<br clear="both">
 
-<div align="center">
-
-  [![Visit Count](https://count.getloli.com/@SamTheTechi?name=SamTheTechi&theme=rule34&padding=7&offset=0&align=top&scale=1.5&pixelated=1&darkmode=auto)](#)
-
+  <br/>![Leetcode Stats](https://leetcard.jacoblin.cool/samthetechi?theme=transparent)
 </div>
