@@ -64,7 +64,7 @@
 
 <div align="center">
   
-  <br/>![Leetcode Stats](https://leetcard.jacoblin.cool/samthetechi)
+  <br/>![Leetcode Stats](https://leetcard.jacoblin.cool/samthetechi?theme=transparent)
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samthetechi&locale=en&hide_title=false&layout=compact&card_width=380&langs_count=6&theme=dark&hide_border=true&order=3" height="300" alt="languages graph"  />
 </div>
 
