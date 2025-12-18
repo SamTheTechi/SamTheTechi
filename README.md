@@ -70,8 +70,6 @@
 
 
   <br/>![Leetcode Stats](https://leetcard.jacoblin.cool/samthetechi?theme=transparent)
+
+  <br/>![Spotify Stats](https://spotify-recently-played-readme.vercel.app/api?user=31il5tmr4tphamlnxvuqj3btv2sy&count={3}&width={400})
 </div>
-
-<h2>My Fav Hits</h2>
-
-[🎶 Listen to my Spotify playlist](https://samthetechi.github.io/spotify-playlist/)
