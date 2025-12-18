@@ -71,3 +71,7 @@
 
   <br/>![Leetcode Stats](https://leetcard.jacoblin.cool/samthetechi?theme=transparent)
 </div>
+
+<h2>My Fav Hits</h2>
+
+[🎶 Listen to my Spotify playlist](https://samthetechi.github.io/spotify-playlist/)
