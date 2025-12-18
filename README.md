@@ -71,5 +71,5 @@
 
   <br/>![Leetcode Stats](https://leetcard.jacoblin.cool/samthetechi?theme=transparent)
 
-  <br/>![Spotify Stats](https://spotify-recently-played-readme.vercel.app/api?user=31il5tmr4tphamlnxvuqj3btv2sy&count={3}&width={400})
+  <br/>![Spotify Stats](https://spotify-recently-played-readme.vercel.app/api?user=31il5tmr4tphamlnxvuqj3btv2sy&count=3&width=450)
 </div>
